@@ -1,0 +1,10 @@
+body {
+background-color: yellow;
+color: aqua;
+font-family: fantasy;
+display:flex;
+justify-content:center;
+align-items:center;
+height: 700px;
+margin:0;
+}
