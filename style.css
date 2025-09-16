@@ -16,9 +16,17 @@ font-family: 'times new roman', times, serif;
 }
 
 .passo {
-display: flex;
+   display: none;
 }
 
+.passo.ativo{
+    display:block
+}
 
+main {
+    max-width: 90%;
+}
 
-
+img {
+    30%
+}
