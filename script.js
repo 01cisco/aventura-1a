@@ -8,13 +8,8 @@ const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
 atual.classList.removemove('ativo);
     document.getElementById(proximoPasso).classList.add('ativo') {
       
-            
-        }
     }
+
 )
-  })
-      
-})
-  
-
-
+  }
+)
